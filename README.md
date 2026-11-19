@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/c/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/WuYuanJie-211/news-image-20261118/rank.svg)](https://make.fun/c/news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/WuYuanJie-211/news-image-20261118/reward.svg)](https://make.fun/c/news-image-20261118)
+
 # The World — Wednesday, 18 November 2026
 
 One image that sums up the world's news of Wednesday 18 November 2026,
